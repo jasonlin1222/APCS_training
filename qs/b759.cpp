@@ -13,7 +13,7 @@ int main(){
 			ou.push(in[abs(j-i)]);
 		}
 		for(int k = 0; k < strlen(in); k++){
-			ou.push()
+			ou.push(in[k])
 			cout << ou.front();
 			ou.pop();
 		}
