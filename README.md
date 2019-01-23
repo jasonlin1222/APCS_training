@@ -3,6 +3,6 @@ include
 1. homework
 2. git.sh
 3. class file
-4. info:
-goo.gl/ML1wXy
-bit.ly/OA_APCS
+info:
+1. goo.gl/ML1wXy
+2. bit.ly/OA_APCS
